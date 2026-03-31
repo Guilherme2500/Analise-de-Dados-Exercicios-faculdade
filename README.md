@@ -8,3 +8,6 @@ No segundo desafio, também desenvolvido pelo professor, realizei as mesmas cois
 
 O terceiro desafio, eu precisei realizar vários tipos de limpeza de dados, seja de valores ausentes, nulos e duplicados. Aprendi que esta é a etapa mais importante da análise.
 Os dados precisam estar limpos e condizentes com o negócio, para que a etapa de Análise Exploratória e a etapa de Visualização sejam verdadeiras, consistentes e mostrem a realidade daqueles dados.
+
+O quarto desafio foi baseado em KPIS. Um dataset de vendas foi utilizado e, através de agregações, foi possível trazer vários insights de negócio para a resolução do problema.
+Além disso, entendi que ter o conhecimento do negócio é essencial para melhores insights. Aprendi sobre diferentes KPI´s de venda como margem de lucro, receita, lucro e ticket médio 
