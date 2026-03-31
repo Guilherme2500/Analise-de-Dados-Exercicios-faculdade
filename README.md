@@ -11,3 +11,7 @@ Os dados precisam estar limpos e condizentes com o negócio, para que a etapa de
 
 O quarto desafio foi baseado em KPIS. Um dataset de vendas foi utilizado e, através de agregações, foi possível trazer vários insights de negócio para a resolução do problema.
 Além disso, entendi que ter o conhecimento do negócio é essencial para melhores insights. Aprendi sobre diferentes KPI´s de venda como margem de lucro, receita, lucro e ticket médio 
+
+O quinto desafio foca na criaçao de diferentes gráficos com matplotlib e seaborn. Aprendi que não se deve apenas apresentar um gráfico, mas analisar e explicar os insights percebidos
+e trazer informações valiosas para aquele negócio.
+
